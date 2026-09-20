@@ -1,15 +1,24 @@
 # 🚀 Space Explorer 🌌
-Explore the universe and discover planets, space missions, astronauts, and amazing facts about space.
+
+Explore the universe and discover planets, space missions, astronauts, amazing facts, videos, and more about space.
+
 ## 🌌 Features
+
 - 🌍 Explore the Solar System
 - 🚀 Discover famous Space Missions
 - 👨‍🚀 Learn about Astronauts
 - 📸 View the Space Gallery
-- 🌌 Discover amazing Space Facts
+- 🎥 Watch Space Videos
+- 🌐 Watch Embedded YouTube Videos
+- 🌌 Discover Amazing Space Facts
 - 📞 Contact Us
+
 ## 💻 Technologies Used
+
 - HTML5
+
 ## 📁 Project Structure
+
 - `index.html` — Home page
 - `solar-system.html` — Solar System
 - `space-missions.html` — Space Missions
@@ -17,7 +26,20 @@ Explore the universe and discover planets, space missions, astronauts, and amazi
 - `space-gallery.html` — Space Gallery
 - `contact.html` — Contact page
 - `did-you-know.html` — Space facts
+- `106237-673007862.mp4` — Space video
+- `15439413_1920_1080_30fps.mp4` — Space video
+
+## 🎥 Multimedia
+
+The project includes:
+
+- Local MP4 videos using the HTML `<video>` element
+- Embedded YouTube videos using `<iframe>`
+
 ## 👩‍💻 Author
+
 Nikhitha Maramreddy
+
 ## 🔗 Live Website
+
 https://nikhithamaramreddy23.github.io/Space-Explorer/

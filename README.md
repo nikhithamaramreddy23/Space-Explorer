@@ -12,6 +12,9 @@ Explore the universe and discover planets, space missions, astronauts, amazing f
 - 🌐 Watch Embedded YouTube Videos
 - 🌌 Discover Amazing Space Facts
 - 📞 Contact Us
+- 🧭 Easy Navigation Between Pages
+- 📐 Clean and Organized Page Layout
+- ⭐ Favicon for the Website
 
 ## 💻 Technologies Used
 
@@ -36,10 +39,24 @@ The project includes:
 - Local MP4 videos using the HTML `<video>` element
 - Embedded YouTube videos using `<iframe>`
 
+## 🧭 Navigation
+
+The website includes navigation links to easily move between different pages:
+
+- Home
+- Solar System
+- Space Missions
+- Astronauts
+- Space Gallery
+- Videos
+- Iframes
+- Contact
+- Did You Know
+
 ## 👩‍💻 Author
 
 Nikhitha Maramreddy
 
 ## 🔗 Live Website
 
-https://nikhithamaramreddy23.github.io/Space-Explorer/
+[Space Explorer](https://nikhithamaramreddy23.github.io/Space-Explorer/)
